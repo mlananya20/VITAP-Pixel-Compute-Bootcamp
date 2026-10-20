@@ -7,3 +7,6 @@
 [submodule "currency-converter"]
 	path = currency-converter
 	url = https://github.com/mlananya20/currency-converter.git
+[submodule "to-do-list"]
+	path = to-do-list
+	url = https://github.com/mlananya20/to-do-list.git
